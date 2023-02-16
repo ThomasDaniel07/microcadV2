@@ -1,0 +1,61 @@
+/* PROPIEDADES ESPECIFICAS */
+
+.font-bold {
+  font-weight: bold;
+}
+.font-semibold{
+  font-weight: 600;
+}
+.text-white{
+  color: #FFF;
+}
+.font-heebo{
+  font-family: 'Heebo';
+}
+.font-montserrat {
+  font-family: 'Montserrat';
+}
+.font-light{
+  font-weight: 300;
+}
+.text-3xl{
+  font-size: 1.87rem;
+  line-height: 2.25rem;
+}
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.text-red-page {
+  color: var(--color-red);
+}
+.text-justify{
+  text-align: justify;
+}
+.divFlex {
+  display: flex;
+}
+.divFlexCol{
+  display: flex;
+  flex-direction: column;
+}
+.divFlexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.divFlexItemsCenter {
+  display: flex;
+  align-items: center;
+}
+.flex-wrap{
+  flex-wrap: nowrap;
+}
+.h-screen{
+  height: 100vh;
+}
+/* ================== */

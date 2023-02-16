@@ -1,0 +1,97 @@
+@media (min-width:768px) {
+  .presentationArticleTwo {
+    max-width: min-content;
+  }
+}
+@media (min-width:1024px) {
+  .sectionOne{
+    padding: 5rem;
+  }
+  .titleArticleOne{
+    width: 100%;
+    text-align: start;
+    font-size: 55px;
+    line-height: 1;
+  }
+  .presentationArticleOne {
+    width: 90%;
+  }
+  .inputDivContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+  }
+  .inputDivOne {
+    margin-right: .5rem;
+  }
+  .presentationArticleOne{
+    width: 50%;
+  }
+  .sectionTwoArticleTwo{
+    margin-top: 0;
+    margin-left: 3.5rem;
+    width: 50%;
+  }
+  .textResponsive{
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .textResponsiveXL{
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .sectionTwoArticleOne > img {
+    object-fit: cover;
+    margin-top: 1.2rem;
+    width: max-content;
+    margin-bottom: 10px;
+  }
+  .width66 {
+    width: 66.66%;
+  }
+  .sliderContainer{
+    width: max-content;
+    margin: auto;
+  }
+  .sectionFourArticleOne > ul:nth-child(2) {
+    margin-left: 2rem;
+  }
+  .sectionFourArticleOne > ul > li > p {
+    margin-left: .5rem;
+  }
+  .sectionFive{
+    height: 300px;
+    justify-content: end;
+  }
+  .sectionFive > div {
+    padding: .5em;
+    width: 40%;
+  }
+  .sectionSixArticle{
+    flex-wrap: nowrap;
+  }
+  .sectionSeven {
+    flex-wrap: nowrap;
+  }
+  .sectionSevenArticle {
+    margin-left: 2rem
+  }
+  .sectionSeven > video {
+    width: 700px;
+  }
+  .main {
+    height: 100vh;
+  }
+  .thanksSectionOne{
+    height: 100vh;
+  }
+  .thanksSectionOneArticleOne > h1 {
+    font-size: 5rem;
+  }
+}
+
+
+
+
+
+
