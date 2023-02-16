@@ -1,9 +1,13 @@
 @media (min-width:768px) {
+  /* SECTION TWO */
   .presentationArticleTwo {
     max-width: min-content;
   }
 }
 @media (min-width:1024px) {
+
+  /* SECTION ONE */
+
   .sectionOne{
     padding: 5rem;
   }
@@ -27,6 +31,9 @@
   .presentationArticleOne{
     width: 50%;
   }
+
+  /* SECTION TWO */
+
   .sectionTwoArticleTwo{
     margin-top: 0;
     margin-left: 3.5rem;
@@ -46,6 +53,8 @@
     width: max-content;
     margin-bottom: 10px;
   }
+  /* SECTION THREE */
+
   .width66 {
     width: 66.66%;
   }
@@ -53,12 +62,18 @@
     width: max-content;
     margin: auto;
   }
+
+  /* SECTION FOUR */
+
   .sectionFourArticleOne > ul:nth-child(2) {
     margin-left: 2rem;
   }
   .sectionFourArticleOne > ul > li > p {
     margin-left: .5rem;
   }
+
+  /* SECTION FIVE */
+
   .sectionFive{
     height: 300px;
     justify-content: end;
@@ -67,6 +82,7 @@
     padding: .5em;
     width: 40%;
   }
+  /* SECTION SEVEN  */
   .sectionSixArticle{
     flex-wrap: nowrap;
   }
@@ -79,6 +95,9 @@
   .sectionSeven > video {
     width: 700px;
   }
+
+  /* THANKS PAGE */
+
   .main {
     height: 100vh;
   }
